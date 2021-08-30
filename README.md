@@ -21,7 +21,7 @@ INICIO DA INSTALAÇÃO DENTRO DO VIRTUAL BOX
 - Na próxima janela já estava habilitado a opção "Criar um novo disco rígido virtual agora", deixei selecionado e cliquei em "Criar".
 - 
 - Tipo de arquivo de disco rígido: VDI (VirtualBox Disk Image)
-- Armazenamento em disco rígio físico: Dinamicamente alocado
+- Armazenamento em disco rígido físico: Dinamicamente alocado
 - Localização e tamanho de arquivo: localização já escolhida pelo virtual box
 	  tamanho já definido 8,00GB.
 -------------------------------------------------------------------------------------
@@ -44,25 +44,25 @@ INICIAR O SISTEMA DEBIAN E CONFIGURAR
 -	Aguardar carregamento
 - Nome da máquina: nomeescolhido (Por padrão já vem debian, deixei esse mesmo)
 -	Nome de domínio: (pode ser deixado em branco)
--	Senha do root : 1234
+-	Senha do root : ****
 -	Confirmar senha
--	Nome comp´leto para novo usuário>: Thainara Carvalho
+-	Nome compPleto para novo usuário: Thainara Carvalho
 -	Nome de usuário para sua conta: thanaracs
--	Senha para novo usuário: 1234
--	Selecione sua localização para horario
+-	Senha para novo usuário: ****
+-	Selecione sua localização para horário
 -	Particionamento de disco: Assistido - Usar o disco inteiro
 -	Selecione o disco a ser particionado: enter
--	Esquema de particonamento: todos os arquivos em uma partilção(para iniciantes)
+-	Esquema de particionamento: todos os arquivos em uma partição(para iniciantes)
 -	finalizar o particionamento e escrever as mudanças no disco
 -	Mostra as mudanças e pergunta se deseja escrever: SIM
 
 - Pergunta se quer ler a mídia: NÃO
 - País do espelho do repositório Debian: Brasil
-- Espelho do repositío debian - Servidor FTP para realizar o download dos pacotes
-- Informações sobre proxy HTTO: deixe em branco
+- Espelho do repositório debian - Servidor FTP para realizar o download dos pacotes
+- Informações sobre proxy HTTP: deixe em branco
 
 ESCOLHER OS SOFTWARES A SEREM INSTALADOS: 
-- Ambiente da parea de trabalho
+- Ambiente da área de trabalho
 - Servidor SSH
 - Utilitários do sistema padrão
 - Instalar o carregador de Inicialização GRUB no seu disco primário? SIM (Pois caso contrário o sistema operacional 	não irá rodar.)
@@ -72,6 +72,7 @@ INFORMA QUE A INSTALAÇÃO ESTÁ COMPLETA:  -CONTINUAR-
 -------------------------------------------------------------------------------------
 
 INICIALIZAÇÃO DA MÁQUINA
-- Inicialização automática caso você não faça escolhha
+- Inicialização automática caso você não faça escolha
 -	Mostra o usuário e solicita senha
 	
+[Prints da tela do debian](https://drive.google.com/drive/u/2/folders/194lWgovWxgl3JX4ALEcDwnTlJy3yUdH7)
